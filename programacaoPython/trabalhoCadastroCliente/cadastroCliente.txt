@@ -1,0 +1,13 @@
+Cadastro de clientes
+
+Criar um programa em Python que permita cadastrar usuários com os seguintes dados:
+    Identificador;
+    Nome;
+    Sobrenome;
+    E-mail(s);
+    Telefone(s);
+    Endereço(logradouro, número, bairro, cidade, estado e CEP);
+
+ATENÇÃO!!
+Os dados deverão ser gravados em arquivos(qualquer tipo de arquivo);
+Os cadastrados poderão ter MAIS DE UM e-mail ou telefone e PRECISARÃO estar em campos separados e não em uma string única;

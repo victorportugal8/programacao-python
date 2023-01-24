@@ -1,0 +1,6 @@
+Faça um programa em Python para testar o código de Monte Carlo de geração de números massivamente aleatórios. O programa tem como objetivo usar a probabilidade para calcular áreas.
+
+Áreas a serem calculadas:
+    1. Círculo com todos os pontos;
+    2. Triângulo;
+    3. Função quadrática(equação do segundo grau);

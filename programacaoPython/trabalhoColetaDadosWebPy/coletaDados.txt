@@ -1,0 +1,10 @@
+Coleta de dados
+
+Criar um programa em Python que permita a busca de informações sobre recursos de hardware e software local e disponibilize para consulta em uma página web simples - utilizando WebPy - colocando campo à campo.
+
+Exemplo:
+
+Sessão da memória
+Memória total = ...;
+Memória livre = ...;
+Memória usada = ...;

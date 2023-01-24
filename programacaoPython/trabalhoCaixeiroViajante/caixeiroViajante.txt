@@ -1,0 +1,7 @@
+Faça um programa em Python para resolver o problema do caixeiro viajante de forma sequencial.
+
+Condições do programa:
+    1. Solicitar o número de cidades;
+    2. Mostrar o melhor caminho entre as cidades;
+    3. Mostrar o tempo necessário para a realização do cálculo;
+    4. bônus: fazer a plotagem do gráfico mostrando os caminhos realizados;

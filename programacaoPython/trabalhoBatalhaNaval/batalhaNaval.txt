@@ -1,0 +1,9 @@
+Faça um programa em Python para simular um jogo de batalha naval em rede.
+
+Condições do programa:
+    1. O programa necessariamente deve fazer uso de socket Cliente/Servidor;
+    2. Os barcos devem ocupar uma posição;
+    3. Os submarinos devem ocupar duas posições, com a possibilidade de serem alocados em linha ou coluna;
+    4. A escolha das posições dos barcos deverá ser aleatória;
+    5. O 'tabuleiro' deve ser montado com 3 barcos e 3 submarinos em uma matriz 10x10;
+    6. Apresente para cada jogador um painel com a matriz de jogo('tabuleiro' do adversário) e uma matriz de acompanhamento(seu próprio 'tabuleiro');
